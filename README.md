@@ -1,13 +1,5 @@
-Hi 👋 I'm a Data & Engineering Consultant
+Hi 👋 I'm a Data & Engineering Scientist in Biomedical research
 =====================================
-
-I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
-------------------------------------
-![](https://komarev.com/ghpvc/?username=ypriverol&label=PROFILE+VIEWS)
-
-* 🌍  Notes on Artificial Intelligence [Himanshu Ramchandani](https://www.himanshuramchandani.co/)
-* ✉️  You can contact me at [connect@himanshuramchandani.co](mailto:connect@himanshuramchandani.co)
-
 
 ### Badges
 
