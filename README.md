@@ -1,16 +1,38 @@
-Hi 👋 I'm a Data & Engineering Scientist in Biomedical research
-=====================================
+### Hi 👋, I'm Yasset Perez-Riverol
 
-### Badges
+**Data & Engineering Scientist in Biomedical Research**
 
-<b>My GitHub Stats</b>
+I work on computational proteomics, bioinformatics pipelines, and open-source tools for mass spectrometry data analysis.
 
-<a href="http://www.github.com/ypriverol"><img src="https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ypriverol's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/ypriverol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ypriverol&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔬 What I Do
 
-<a href="[http://www.github.com/ypriverol"><img src="[https://activity-graph.herokuapp.com/graph?](https://github-readme-activity-graph.cyclic.app/graph?username=ypriverol](https://github-readme-activity-graph.cyclic.app/graph?username=ypriverol&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- **Proteomics & Mass Spectrometry** - Building workflows for quantitative proteomics (DDA, DIA, TMT)
+- **Data Standards** - Developing metadata standards and data formats for proteomics
+- **Bioinformatics Tools** - Creating pipelines with Nextflow, Docker, and cloud platforms
+- **Open Science** - Contributing to community-driven projects and FAIR data principles
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### 🚀 Featured Projects
+
+- [**quantms**](https://github.com/bigbio/quantms) - Nextflow workflow for quantitative mass spectrometry
+- [**proteomics-sample-metadata**](https://github.com/bigbio/proteomics-sample-metadata) - SDRF standard for proteomics metadata
+- [**sdrf-pipelines**](https://github.com/bigbio/sdrf-pipelines) - Validator and converter for SDRF files
+- [**pmultiqc**](https://github.com/bigbio/pmultiqc) - Quality control reporting for proteomics
+- [**ibaqpy**](https://github.com/bigbio/ibaqpy) - Absolute quantification for proteomics data
+
+---
+
+### 📊 GitHub Activity
+
+![Yasset's GitHub contribution statistics](https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ypriverol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+---
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="150" /></a>
