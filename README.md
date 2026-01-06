@@ -35,4 +35,4 @@ I work on computational proteomics, bioinformatics pipelines, and open-source to
 
 ### ☕ Support My Work
 
-<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="150" /></a>
