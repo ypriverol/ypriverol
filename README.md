@@ -1,111 +1,38 @@
-# Hi 👋, I'm Yasset Perez-Riverol
+### Hi 👋, I'm Yasset Perez-Riverol
 
-## Data & Engineering Scientist | Computational Proteomics Expert | Open Science Advocate
+**Data & Engineering Scientist in Biomedical Research**
 
-I'm a passionate data scientist and software engineer specializing in **computational proteomics** and **bioinformatics**. My work focuses on developing open-source tools, workflows, and standards that advance mass spectrometry-based proteomics research and enable reproducible science.
-
----
-
-## 🔬 About Me
-
-I lead development of computational infrastructure and pipelines for large-scale proteomics data analysis. My research bridges bioinformatics, data science, and software engineering to solve complex challenges in biological mass spectrometry and multi-omics integration.
-
-### Areas of Expertise
-
-- **Proteomics & Mass Spectrometry**: Quantitative proteomics workflows (DDA-LFQ, DIA-LFQ, TMT/iTRAQ)
-- **Computational Biology**: Proteogenomics, protein identification, quantification algorithms
-- **Bioinformatics Infrastructure**: Nextflow workflows, containerization (Docker, Biocontainers)
-- **Data Standards**: SDRF metadata standards, data formats (mzML, mzIdentML)
-- **Software Engineering**: Python, Java, R, distributed computing (Apache Spark)
-- **Open Science**: Reproducible research, FAIR principles, community-driven development
+I work on computational proteomics, bioinformatics pipelines, and open-source tools for mass spectrometry data analysis.
 
 ---
 
-## 🚀 Key Projects & Contributions
+### 🔬 What I Do
 
-### 🧬 Quantitative Proteomics Pipelines
-- **[quantms](https://github.com/bigbio/quantms)** ⭐ 64 - Comprehensive Nextflow workflow for quantitative mass spectrometry supporting DDA-LFQ, DDA-Isobaric, and DIA-LFQ experiments
-- **[quantms-utils](https://github.com/bigbio/quantms-utils)** - Python utilities and helper classes for quantms workflows
-
-### 📊 Data Standards & Metadata
-- **[proteomics-sample-metadata](https://github.com/bigbio/proteomics-sample-metadata)** ⭐ 98 - SDRF standard for experimental design annotation in proteomics
-- **[sdrf-pipelines](https://github.com/bigbio/sdrf-pipelines)** ⭐ 29 - Official SDRF validator and converter to pipeline configurations
-- **[qpx](https://github.com/bigbio/qpx)** ⭐ 14 - Quantitative Proteomics eXchange format (quantms.io)
-
-### 🔧 Analysis Tools
-- **[ibaqpy](https://github.com/bigbio/ibaqpy)** ⭐ 16 - Absolute quantification package for proteomics
-- **[pmultiqc](https://github.com/bigbio/pmultiqc)** ⭐ 24 - Quality control reporting for proteomics based on MultiQC
-- **[py-pgatk](https://github.com/bigbio/py-pgatk)** ⭐ 13 - Python tools for proteogenomics analysis
-
-### 📚 Research & Publications
-- **[github-paper](https://github.com/ypriverol/github-paper)** ⭐ 59 - PLOS Computational Biology paper on GitHub for researchers
-- **[containers-rules-manuscript](https://github.com/ypriverol/containers-rules-manuscript)** ⭐ 11 - Best practices for containerizing bioinformatics software
-- **[os-proteomics](https://github.com/ypriverol/os-proteomics)** ⭐ 10 - Perspectives on open source in proteomics
-
-### 💻 Development Resources
-- **[spark-java8](https://github.com/ypriverol/spark-java8)** ⭐ 42 - Learning Apache Spark with Java 8 examples
-- **[nf-workflows](https://github.com/bigbio/nf-workflows)** ⭐ 14 - Collection of Nextflow + BioContainers workflows
+- **Proteomics & Mass Spectrometry** - Building workflows for quantitative proteomics (DDA, DIA, TMT)
+- **Data Standards** - Developing metadata standards and data formats for proteomics
+- **Bioinformatics Tools** - Creating pipelines with Nextflow, Docker, and cloud platforms
+- **Open Science** - Contributing to community-driven projects and FAIR data principles
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🚀 Featured Projects
 
-**Languages**: Python • Java • R • Groovy • JavaScript • Shell  
-**Workflows**: Nextflow • Snakemake  
-**Big Data**: Apache Spark • Distributed Computing  
-**Containers**: Docker • Singularity • Biocontainers  
-**Cloud**: AWS • Google Cloud  
-**Databases**: MongoDB • SQL • Neo4j  
-**Proteomics**: OpenMS • MaxQuant • MSstats • Comet • MSGF+  
+- [**quantms**](https://github.com/bigbio/quantms) - Nextflow workflow for quantitative mass spectrometry
+- [**proteomics-sample-metadata**](https://github.com/bigbio/proteomics-sample-metadata) - SDRF standard for proteomics metadata
+- [**sdrf-pipelines**](https://github.com/bigbio/sdrf-pipelines) - Validator and converter for SDRF files
+- [**pmultiqc**](https://github.com/bigbio/pmultiqc) - Quality control reporting for proteomics
+- [**ibaqpy**](https://github.com/bigbio/ibaqpy) - Absolute quantification for proteomics data
 
 ---
 
-## 🌍 Community & Contributions
+### 📊 GitHub Activity
 
-- 🏛️ Core contributor to the **bigbio** organization developing proteomics bioinformatics tools
-- 📖 Active in developing community standards for proteomics metadata and data sharing
-- 🐳 Contributor to **BioContainers** initiative for reproducible bioinformatics
-- 🔬 Promoting FAIR (Findable, Accessible, Interoperable, Reusable) principles in proteomics
-- 📝 Published research on best practices for software development in computational biology
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ypriverol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
-## 📈 GitHub Stats
+### ☕ Support My Work
 
-<p align="center">
-  <a href="http://www.github.com/ypriverol">
-    <img src="https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ypriverol's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://www.github.com/ypriverol">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ypriverol&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on:
-- Proteomics data analysis pipelines and workflows
-- Open-source bioinformatics tools
-- Data standards and reproducible research initiatives
-- Scientific software engineering best practices
-
-Feel free to explore my repositories, open issues, or reach out for collaboration!
-
----
-
-## 💖 Support My Work
-
-If you find my open-source contributions useful, consider supporting my work:
-
-<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
----
-
-<p align="center">
-  <i>Building open tools for open science 🔬 | Making proteomics data analysis accessible 📊 | One commit at a time 💻</i>
-</p>
+<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
