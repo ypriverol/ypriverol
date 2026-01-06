@@ -74,7 +74,7 @@ I lead development of computational infrastructure and pipelines for large-scale
 
 <p align="center">
   <a href="http://www.github.com/ypriverol">
-    <img src="https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ypriverol's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ypriverol's GitHub stats" />
   </a>
 </p>
 
