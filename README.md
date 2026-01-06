@@ -27,9 +27,9 @@ I work on computational proteomics, bioinformatics pipelines, and open-source to
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Yasset's GitHub contribution statistics](https://github-readme-stats.vercel.app/api?username=ypriverol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ypriverol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ypriverol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
