@@ -32,7 +32,3 @@ I work on computational proteomics, bioinformatics pipelines, and open-source to
 ![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ypriverol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
-
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/ypriverol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="150" /></a>
